@@ -1,0 +1,41 @@
+
+AI-Bharat-2035: National Economic Transformation Framework (Reference Notes)
+==============================================================================
+
+📌 Overview:
+This project leverages AI, data analytics, and policy simulation to revolutionize India's economy by 2035, focusing on education, healthcare, employment, and economic strategy.
+
+📁 Useful Dataset Links:
+------------------------
+1. MoSPI GDP Data: https://data.gov.in/catalog/gross-domestic-product-gdp-india
+2. NFHS-5 Data: https://rchiips.org/nfhs/nfhs5.shtml
+3. World Bank Open Data (India): https://data.worldbank.org/country/india
+4. NSDC Skills Demand: https://www.nsdcindia.org/resources
+5. ASER Reports: http://www.asercentre.org/
+6. NITI Aayog Indices: https://www.niti.gov.in/
+
+💡 Core Features:
+-----------------
+- GDP Simulation Engine (python/simulate_gdp.py)
+- Free Education Efficiency Model (notebooks/education_policy_optimizer.ipynb)
+- AI-enabled Public Healthcare Resource Mapping (simulation/simulate_healthcare.py)
+- Urban-Rural Employment Model using ML (planned)
+- Kaggle-ready EDA Notebooks
+
+🎯 Vision:
+----------
+Build a deployable AI platform for governments, research institutions, and policy makers to simulate and optimize economic development strategies.
+
+🛠 Roadmap (High-Level):
+------------------------
+Phase 1: Dataset collection and EDA (0–30 days)
+Phase 2: Simulation module implementation (30–60 days)
+Phase 3: Dashboard integration + external collaboration (60–90 days)
+Phase 4: Policy publication and national district simulation (ongoing)
+
+📬 Contact:
+-----------
+Email: amantikale@gmail.com
+GitHub: https://github.com/amantikale/AI-Bharat-2035
+
+License: MIT License
